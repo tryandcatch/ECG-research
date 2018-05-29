@@ -12,8 +12,8 @@
 - 能否通过分析大量的数据建立一种数据模型，从而实现输入患者的一张心电图的数据，给出分析结果（神经网络，深度学习.....），例如分析患者心率是否有问题，心脏功能问题，心肌梗死，心室心房是否正常
 - ......
 # 学习的资料（博客/数据/视频/论文）
-- [ECG的介绍--维基百科]（https://zh.wikipedia.org/wiki/%E5%BF%83%E7%94%B5%E5%9B%BE）、[百度百科](https://baike.baidu.com/item/ECG/10910901)
+- [ECG维基百科](https://zh.wikipedia.org/wiki/%E5%BF%83%E7%94%B5%E5%9B%BE) 、 [ECG百度百科](https://baike.baidu.com/item/ECG/10910901)
 - [心电图数据](https://physionet.org/physiobank/database/ptbdb/)（非常感谢！）
-- [Advanced Methods and Tools For ECG Data Analysis - ch2.pdf](http://www.mit.edu/~gari/ecgbook/ch1.pdf)[Advanced Methods and Tools For ECG Data Analysis - ch2.pdf](http://www.mit.edu/~gari/ecgbook/ch2.pdf)（麻省理工的一篇关于ECG数据分析的论文）
+- [Advanced Methods and Tools For ECG Data Analysis - ch2.pdf](http://www.mit.edu/~gari/ecgbook/ch1.pdf) 、 [Advanced Methods and Tools For ECG Data Analysis - ch2.pdf](http://www.mit.edu/~gari/ecgbook/ch2.pdf)（麻省理工的一篇关于ECG数据分析的论文）
 - [麻省理工学院LCP的github](https://github.com/MIT-LCP)
 - [心率变异性--如何分析ECG数据](https://imotions.com/blog/heart-rate-variability/)
